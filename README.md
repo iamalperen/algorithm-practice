@@ -4,7 +4,7 @@ In this repo, I will share my algorithm and data structure practice codes. Every
 
 I hope my solutions can help you too.
 
-[![Static Badge](https://img.shields.io/badge/open_source-playground-blue)]()
+[![Static Badge](https://img.shields.io/badge/open_source-playground_repo-blue)]()
 
 
 
